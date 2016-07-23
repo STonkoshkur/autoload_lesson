@@ -1,3 +1,5 @@
 # Autoloading classes in simple application
 
-Create missing autoloader class for provided example and make it work!
+Advance this simplest application with missing autoloader class for and make it work!
+Try to do not change source code of these files.
+Send us Gist link of your realisation.
