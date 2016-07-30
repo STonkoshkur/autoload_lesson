@@ -1,11 +1,14 @@
 <?php
 
+require_once 'autoload.php';
+
 use Mindk\Blog\Content\Article;
 use Mindk\Blog\Content\Contact;
 use Mindk\Blog\Content\Video;
 use Mindk\Blog\Category;
 
-require_once 'autoload.php';
+//phpinfo();
+
 
 // Creating some dummy content:
 $article = new Article('Lorem Ipsum', 'Lorem ipsum dolor sit amet...');
